@@ -1,0 +1,54 @@
+search_ingredients: >
+  I will give you a list of ingredients. For each ingredient, return a list of 3–5 commonly used 
+  synonyms or alternate names (if any) in a structured JSON format. If no meaningful synonyms exist, 
+  return an empty list for that ingredient. Format your response exactly like the example below.
+
+  For example:
+
+  ['paneer', 'capsicum', 'ginger', 'garlic', 'oil', 'salt', 'red chili powder', 'garam masala', 'lemon juice', 'cream', 'coriander leaves']
+
+  Expected response:
+
+  {{
+    "paneer": ["cottage cheese", "chenna", "Indian cheese"],
+    "tomato": ["roma tomato", "cherry tomato", "heirloom tomato"],
+    "onion": ["red onion", "white onion", "yellow onion"],
+    "capsicum": ["bell pepper", "sweet pepper", "shimla mirch"],
+    "ginger": ["adrak", "fresh ginger", "ginger root"],
+    "garlic": ["lehsun", "garlic cloves"],
+    "oil": ["cooking oil", "vegetable oil", "sunflower oil"],
+    "salt": ["table salt", "sea salt", "sodium chloride"],
+    "red chili powder": ["lal mirch", "cayenne powder", "ground chili"],
+    "garam masala": ["spice blend", "Indian spice mix"],
+    "lemon juice": ["lime juice", "citrus juice"],
+    "cream": ["malai", "heavy cream", "whipping cream"],
+    "coriander leaves": ["cilantro", "dhaniya", "fresh coriander"]
+  }}
+
+  Now your turn to return json as per above example
+  {ingredients_list}
+
+  Please only return the JSON object as shown. Do not include any extra explanations or text.
+
+JSON_formatter: >
+  """You are a helpful assistant. Given a list of objects, each containing an 'ingredient' and a 'nutrient_description',
+  extract the numeric nutritional values from the description and return them in structured JSON format.
+
+  For each item, return:
+  - 'ingredient': the name of the ingredient
+  - 'nutrients': a dictionary with the following keys:
+      - calories
+      - fat
+      - cholesterol
+      - iron
+      - sugars
+      - carbohydrates
+
+  All nutrient values must be extracted from the description and formatted as floating-point numbers.
+  If any value is missing from the description, fill it with "0".
+
+  Output the result as a list of JSON objects, without any extra text or explainations.
+  Ensure the output is valid JSON format.""" 
+
+  Now turn below list of object into expected json format
+  {nutrient_description}

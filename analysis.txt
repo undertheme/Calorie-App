@@ -1,0 +1,87 @@
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 14299
+description: Potato generates 214.729 calories. The nutritional breakdown includes 14.401 grams of fat, 22.0 grams of cholesterol, and 0.3 grams of iron, along with 1.66 grams of sugars and 17.67 grams of carbohydrates. 0.888647556    
+: 12917
+description: In Rice, you get 156.566 calories. The nutritional content includes 6.654 grams of fat, 11.0 grams of cholesterol, and 4.93 grams of iron. There are also 4.81 grams of sugar and 19.76 grams of carbs. 0.884014428
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 14299
+description: Potato generates 214.729 calories. The nutritional breakdown includes 14.401 grams of fat, 22.0 grams of cholesterol, and 0.3 grams of iron, along with 1.66 grams of sugars and 17.67 grams of carbohydrates. 0.888647556    
+: 12917
+description: In Rice, you get 156.566 calories. The nutritional content includes 6.654 grams of fat, 11.0 grams of cholesterol, and 4.93 grams of iron. There are also 4.81 grams of sugar and 19.76 grams of carbs. 0.884014428
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 14299
+description: Potato generates 214.729 calories. The nutritional breakdown includes 14.401 grams of fat, 22.0 grams of cholesterol, and 0.3 grams of iron, along with 1.66 grams of sugars and 17.67 grams of carbohydrates. 0.888647556    
+: 9289
+description: In Cheese, you get 668.369 calories. The nutritional content includes 62.561 grams of fat, 95.0 grams of cholesterol, and 0.76 grams of iron. There are also 0.52 grams of sugar and 2.57 grams of carbs. 0.882351875
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 14299
+description: Potato generates 214.729 calories. The nutritional breakdown includes 14.401 grams of fat, 22.0 grams of cholesterol, and 0.3 grams of iron, along with 1.66 grams of sugars and 17.67 grams of carbohydrates. 0.888647556    
+: 13912
+description: Mango contributes 343.272 calories. Nutritionally, it has 2.128 grams of fat, 0.0 grams of cholesterol, and 0.23 grams of iron, as well as 66.27 grams of sugars and 78.58 grams of carbohydrates. 0.826409221
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 14244
+description: Potato signifies 378.9440000000001 calories. It contains 27.416000000000004 grams of fat, 3.0 grams of cholesterol, and 0.71 grams of iron, as well as 0.3 grams of sugars and 29.69 grams of carbohydrates. 0.832634389      
+: 6870
+description: Snacks, made with enriched masa flour, barbecue-flavor, chips, extruded, corn-based holds 523.0 calories. It contains 33.0 grams of fat, 0.0 grams of cholesterol, and 0.004900000000000001 grams of iron, along with 0.0 grams of sugars and 56.2 grams of carbohydrates. 0.731995046
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 14244
+description: Potato signifies 378.9440000000001 calories. It contains 27.416000000000004 grams of fat, 3.0 grams of cholesterol, and 0.71 grams of iron, as well as 0.3 grams of sugars and 29.69 grams of carbohydrates. 0.832634389      
+: 11722
+description: Papad reflects 395.846 calories. Nutritionally, it includes 6.014 grams of fat, 4.0 grams of cholesterol, and 7.8 grams of iron, along with 0.0 grams of sugars and 59.87 grams of carbohydrates. 0.828551769
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 14244
+description: Potato signifies 378.9440000000001 calories. It contains 27.416000000000004 grams of fat, 3.0 grams of cholesterol, and 0.71 grams of iron, as well as 0.3 grams of sugars and 29.69 grams of carbohydrates. 0.832634389      
+: 445
+description: Rose-apples, raw yields 25.0 calories. Nutritionally, it includes 0.3 grams of fat, 0.0 grams of cholesterol, and 7.000000000000001e-05 grams of iron, along with 0.0 grams of sugars and 5.7 grams of carbohydrates. 0.781899273
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py ['bat']
+: 14244
+description: Potato signifies 378.9440000000001 calories. It contains 27.416000000000004 grams of fat, 3.0 grams of cholesterol, and 0.71 grams of iron, as well as 0.3 grams of sugars and 29.69 grams of carbohydrates. 0.832634389
+: 1898
+description: Fish, dry heat, cooked, burbot registers 115.0 calories. It contains 1.0 grams of fat, 0.077 grams of cholesterol, and 0.00115 grams of iron, as well as 0.0 grams of sugars and 0.0 grams of carbohydrates. 0.750707805
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 17513
+description: beets raw totals 58.0 calories. It contains 0.2 grams of fat, 0.0 grams of cholesterol, and 0.1 grams of iron, as well as 9.2 grams of sugars and 13.0 grams of carbohydrates. 0.83447051
+: 1898
+description: Fish, dry heat, cooked, burbot registers 115.0 calories. It contains 1.0 grams of fat, 0.077 grams of cholesterol, and 0.00115 grams of iron, as well as 0.0 grams of sugars and 0.0 grams of carbohydrates. 0.750707805      
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 17513
+description: beets raw totals 58.0 calories. It contains 0.2 grams of fat, 0.0 grams of cholesterol, and 0.1 grams of iron, as well as 9.2 grams of sugars and 13.0 grams of carbohydrates. 0.83447051
+: 17726
+description: parmesan cheese grated reveals 21.0 calories. It contains 1.4 grams of fat, 4.3 grams of cholesterol, and 0.094 grams of iron, as well as 0.075 grams of sugars and 0.7 grams of carbohydrates. 0.849470735
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 17513
+description: beets raw totals 58.0 calories. It contains 0.2 grams of fat, 0.0 grams of cholesterol, and 0.1 grams of iron, as well as 9.2 grams of sugars and 13.0 grams of carbohydrates. 0.83447051
+: 17726
+description: parmesan cheese grated reveals 21.0 calories. It contains 1.4 grams of fat, 4.3 grams of cholesterol, and 0.094 grams of iron, as well as 0.075 grams of sugars and 0.7 grams of carbohydrates. 0.849470735
+: 9339
+description: Cheese signifies 606.8900000000001 calories. It contains 57.09 grams of fat, 98.0 grams of cholesterol, and 0.48 grams of iron, as well as 2.63 grams of sugars and 5.27 grams of carbohydrates. 0.821255386
+None
+
+(.venv) C:\Users\Moiz Ahmed\my-work\RL_Projects\calories_app_v2>python calorie_app.py
+: 17513
+description: beets raw totals 58.0 calories. It contains 0.2 grams of fat, 0.0 grams of cholesterol, and 0.1 grams of iron, as well as 9.2 grams of sugars and 13.0 grams of carbohydrates. 0.83447051
+: 4425
+description: Restaurant, chicken parmesan without pasta, Italian accounts for 204.0 calories. Nutritionally, it contains 11.0 grams of fat, 0.054 grams of cholesterol, and 0.00068 grams of iron, along with 2.79 grams of sugars and 10.92 grams of carbohydrates. 0.846705616
+: 9339
+description: Cheese signifies 606.8900000000001 calories. It contains 57.09 grams of fat, 98.0 grams of cholesterol, and 0.48 grams of iron, as well as 2.63 grams of sugars and 5.27 grams of carbohydrates. 0.821255386
+None
